@@ -1,3 +1,4 @@
+// criando uma variável e guardando um string;
 // atribuindo um valor a uma variável "const";
 // atribuindo vários valores a uma variável "let";
 
